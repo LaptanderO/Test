@@ -1,11 +1,30 @@
-# Object files
+# C compiled files
 *.o
 *.ko
 *.obj
 *.elf
 
-# Exevutables
+# Executables
 *.exe
 *.out
 *.app
 
+# Debug files
+*.d
+*.pdb
+
+# Library files
+*.a
+*.lib
+*.so
+*.dylib
+
+# IDE files (Visual Studio, CLion)
+.vs/
+.idea/
+*.vcxproj
+*.sln
+
+# System files
+.DS_Store
+Thumbs.db
