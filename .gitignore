@@ -5,6 +5,7 @@
 *.elf
 
 # Executables
+*
 *.exe
 *.out
 *.app
